@@ -17,9 +17,6 @@ I'm a **passionate and results-driven Software Engineer** with a focus on buildi
 
 ## 📬 Get in Touch
 
-* 📧 **Email**: [thanushmk6@gmail.com](mailto:thanushmk6@gmail.com)
-* 📞 **Phone**: [+94 77 243 3010](tel:+94772433010)
-* 📍 **Location**: Eastern Province, Sri Lanka
 * 🔗 **LinkedIn**: [Connect with me!](https://www.linkedin.com/in/thanusan-kanagenthiran)
 
 ---
